@@ -1,4 +1,4 @@
-中文：![url](https://github.com/jhhua/phpshell/blob/main/README_ZH.md)
+中文：[url](https://github.com/jhhua/phpshell/blob/main/README_ZH.md)
 
 
 # phpshell
